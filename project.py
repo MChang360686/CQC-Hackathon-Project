@@ -55,8 +55,6 @@ makeNum(1)
 # (i.e. all 1's from 9am-5pm)
 # we need a way to simulate how much energy is produced
 
-# I will use weighted Adders here.
-
 # returns a list of qubits
 def makeQubits(length):
   # not actually qubits per se, just simulated
