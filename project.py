@@ -20,7 +20,7 @@ from qiskit.tools.monitor import job_monitor
 import numpy as np
 import matplotlib.pyplot as plt
 
-#IBMQ.enable_account('ad1d4e7c85af15fe1b1f229e98c688751cfe3d78bb06d9934f8d8b95c539f3f1fc1ea5439abaebd2d08c19fc9a74f78e6446bf49e1e7cbc2ad7b4b6deb717925')
+#IBMQ.enable_account('')
 provider = IBMQ.get_provider(hub='ibm-q')
 
 
